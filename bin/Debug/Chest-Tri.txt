@@ -30,6 +30,6 @@ Jab Cross Switch
 Froggers
 Kick-Backs;1;pause
 Pitch and Catch;60;15
-Jumpshots;40;10
-4 punch squat;40;10
+Jumpshots;45;10
+4 punch squat;45;10
 
