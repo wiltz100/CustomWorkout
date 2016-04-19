@@ -1,0 +1,7 @@
+C:\Development\CustomWorkout\CustomWorkout\bin\Release\CustomWorkout.exe
+C:\Development\CustomWorkout\CustomWorkout\bin\Release\CustomWorkout.pdb
+C:\Development\CustomWorkout\CustomWorkout\obj\x86\Release\CustomWorkout.frm_Main.resources
+C:\Development\CustomWorkout\CustomWorkout\obj\x86\Release\CustomWorkout.Properties.Resources.resources
+C:\Development\CustomWorkout\CustomWorkout\obj\x86\Release\CustomWorkout.csproj.GenerateResource.Cache
+C:\Development\CustomWorkout\CustomWorkout\obj\x86\Release\CustomWorkout.exe
+C:\Development\CustomWorkout\CustomWorkout\obj\x86\Release\CustomWorkout.pdb

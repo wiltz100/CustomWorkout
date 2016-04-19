@@ -1,0 +1,35 @@
+Get Ready;60;1
+BKnuck Ball Back
+Steam Engine
+Shelves
+Hook/Upper/BkKck
+Shldr Raise;1;pause
+BKnuck Ball Back
+Steam Engine
+Shelves
+Hook/Upper/BkKck
+Shldr Raise;1;pause
+Heisman
+4 Punch Switch
+March
+4 Dir Kicks
+28s (bicep);1;pause
+Heisman
+4 Punch Switch
+March
+4 Dir Kicks
+28s (bicep);1;pause
+Walking Lunges
+Jab Cross Switch
+Hook Upper Switch
+Froggers
+Military;1;pause
+Walking Lunges
+Jab Cross Switch
+Hook Upper Switch
+Froggers
+Curls;1;pause
+Pitch and Catch;60;15
+Jumpshots;45;10
+4 punch squat;45;10
+

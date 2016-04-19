@@ -1,0 +1,3 @@
+Squat Switch Pickups;10;5
+Stool Leg Raises;1;pause
+Airborn Heisman;10;5

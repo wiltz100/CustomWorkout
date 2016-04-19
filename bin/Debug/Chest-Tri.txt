@@ -1,0 +1,35 @@
+Get Ready;60;1
+BKnuck Ball Back
+Steam Engine
+Shelves
+Jab/Cross/FrntKck
+Pushups;1;pause
+BKnuck Ball Back
+Steam Engine
+Shelves
+Jab/Cross/FrntKck
+Pushups;1;pause
+Heisman
+4 Punch Switch
+March
+Monster Tires
+Tri-Press;1;pause
+Heisman
+4 Punch Switch
+March
+Monster Tires
+Tri-Press;1;pause
+Gap Jumps
+Jab Cross Switch
+3 Dir Kicks
+Froggers
+Flys (chest);1;pause
+Gap Jumps
+Jab Cross Switch
+3 Dir Kicks
+Froggers
+Kick-Backs;1;pause
+Pitch and Catch;60;15
+Jumpshots;45;10
+4 punch squat;45;10
+
